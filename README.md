@@ -23,10 +23,25 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibility on the web is very importand to focus on when building a website. It is the practice of making sure your website is inclusive and user friendly. When building your website you should keep in mind how people will be able to access your website whether they are blind, process information in a different way, or even if they just have a slow internet connection. 
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+To make a website accessible it is important to use semantic HTML, make sure colors aren't too harsh on the eyes, the code is concise so it doesn't take too long to process, and use alt tags on images so that someone using a screen reader can experience your website with image descriptions. 
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is a way to store data that can be changed later on. You can create a variable by using const, let, or var. It is best practice to use const until you can't, then use let, and avoid var. 
+
 4. What is the purpose of using functions in code?
+
+Using functions in code is useful because of reusability. Once a function is defined you can use it over and over again. You can combine multiple lines of code that are trying to accomplish a specific task and encapsulate it into one line that can be used in your code.
+
 5. How do you access a key inside of an object inside of an array?
+
+To access a key inside of an object inside and array you would have to use dot notation and include the index of the key you are trying to access. And if it is a string with spaces in it you would have to use bracket notation.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
